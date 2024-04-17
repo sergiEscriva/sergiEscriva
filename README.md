@@ -1,4 +1,4 @@
-### Hi there 👋
+### <center>Holaa 👋🏻👋🏻 mi nombre es Sergi Escriva</center>
 ## 
 
 
@@ -6,16 +6,19 @@
 
 
 
-ial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+> [!WARNING]
+>Este perfil, es de un estudiante que todavia no ha terminado los estudios
+> En el futuro se añadiran los proyectos
