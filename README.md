@@ -7,7 +7,7 @@ Desarrollador especializado en **IA aplicada y automatización**, con experienci
 
 ---
 
-## 🛠️ Stack Técnico
+##  Stack Técnico
 
 | Área | Tecnologías |
 |------|-------------|
@@ -20,7 +20,7 @@ Desarrollador especializado en **IA aplicada y automatización**, con experienci
 
 ---
 
-## 💼 Experiencia
+##  Experiencia
 
 **Desarrollador de IA y Marketing Digital — AD Dental**
 `Junio 2025 – Actualidad`
@@ -40,20 +40,20 @@ Desarrollador especializado en **IA aplicada y automatización**, con experienci
 
 ---
 
-## 🎓 Formación
+##  Formación
 
-- 📊 **Certificado de Especialidad Big Data & IA** — CIPFP Mislata `2025 – 2026`
-- 📱 **Grado Superior Desarrollador de Aplicaciones Multiplataforma** — CIPFP Cheste `2023 – 2025`
+-  **Certificado de Especialidad Big Data & IA** — CIPFP Mislata `2025 – 2026`
+-  **Grado Superior Desarrollador de Aplicaciones Multiplataforma** — CIPFP Cheste `2023 – 2025`
 
 ---
 
-## 🌐 Idiomas
+##  Idiomas
 
 🇪🇸 Castellano — Nativo &nbsp;&nbsp;|&nbsp;&nbsp; 🇬🇧 Inglés — Competencia profesional
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 [![Gmail](https://img.shields.io/badge/sergiescriva10@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sergiescriva10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergi_Escriva-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergiescriva)
